@@ -1,0 +1,26 @@
+{
+  "students" : [
+    {
+      "name": "keerthana",
+      "class": 10,
+      "subjects" : {
+        "maths" : 80,
+        "science" : 95,
+        "language" : 90
+      },
+      "house": "blue",
+      "extras" : ["groupA" , "guides" , "rsp"]
+    },
+    {
+      "name": "Rea",
+      "class": 10,
+      "subjects" : {
+        "maths" : 90,
+        "science" : 85,
+        "language" : 99
+      },
+      "house": "green",
+      "extras" : ["groupA" , "jrc" , "interactive"]
+    }
+  ]
+}
